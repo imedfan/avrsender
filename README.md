@@ -1,4 +1,4 @@
-# avrsender
+# avruploader
 
 This script compiles and uploads your C code to a microcontroller like ATmega without Arduino IDE. 
 This way: compile C -> make ELF -> make hex -> upload to microcontroller
